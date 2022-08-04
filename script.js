@@ -46,6 +46,15 @@
 
 // DIFFERENT DATA! Contains movement dates, currency and locale
 
+console.log(`Welcome, Thanks if you have reached till here 👍🏻,
+as it is a beginner project I could not implement login functionality.
+The login credentials here are :
+user: js , pin: 1111
+user: jd , pin: 2222
+user: bb , pin: 3333
+Kindly go through all the functionalities and switch accounts to check the results.
+`);
+
 const account1 = {
   owner: 'Jonas Schmedtmann',
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
